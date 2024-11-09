@@ -1,0 +1,29 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style the body */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+/* Colored title */
+.title {
+    color: #3498db; /* Light blue */
+    font-size: 2em;
+}
+
+/* Colored paragraph text */
+.text {
+    color: #e74c3c; /* Red */
+    font-size: 1.2em;
+    margin-top: 10px;
+}
